@@ -13,8 +13,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
-- Windows Server 2022
+- Windows 11</b>
+- Windows Server 2025
 
 <h2>Installation Steps</h2>
 
